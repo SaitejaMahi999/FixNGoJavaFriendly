@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;backend&apos; to &apos;FixNGoJavaFriendly&apos;" description="Rename resource &apos;backend&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/backend" name="FixNGoJavaFriendly" stamp="1754144352485" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;FixNGoJavaFriendly&apos; to &apos;FixNGoJavaFriendly-backend&apos;" description="Rename resource &apos;FixNGoJavaFriendly&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/FixNGoJavaFriendly" name="FixNGoJavaFriendly-backend" stamp="1754144369890" updateReferences="true"/>
+</session>
